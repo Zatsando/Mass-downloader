@@ -17,6 +17,7 @@ start "https://webinstallers.gog.com/download/GOG_Galaxy_2.0.exe?payload=SRLJMgs
 start https://builds.parsecgaming.com/package/parsec-windows.exe
 start https://ninite.com/adoptjdk8-classicstart-discord-firefox-irfanview-notepadplusplus-qbittorrent-steam-vlc-vscode-winrar/
 start "https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC"
+start "https://github.com/Genymobile/scrcpy/releases/download/v1.14/scrcpy-win64-v1.14.zip"
 
 @ECHO OFF
 ECHO Grats kid, your apps are here! Enjoy!
