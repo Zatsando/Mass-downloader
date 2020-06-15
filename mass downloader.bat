@@ -21,4 +21,6 @@ start "https://github.com/Genymobile/scrcpy/releases/download/v1.14/scrcpy-win64
 
 @ECHO OFF
 ECHO Grats kid, your apps are here! Enjoy!
+
+start "C:\Users\%USERNAME%\Downloads"
 PAUSE
