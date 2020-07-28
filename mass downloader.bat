@@ -4,6 +4,7 @@ TITLE MASS DOWNLOADER TOOL
 
 start http://www.motospeed.cc/upfile/download/MotoSpeed_GamingMouse_V30(20180627).rar
 start https://github.com/farag2/Windows-10-Setup-Script/releases
+start https://app.prntscr.com/build/setup-lightshot.exe
 start https://www.unifiedremote.com/download/windows
 start https://www.battle.net/download/getInstallerForGame?os=win&locale=enUS&version=LIVE&gameProgram=BATTLENET_APP
 start https://github.com/Nexus-Mods/Nexus-Mod-Manager/releases/download/0.71.4/Nexus.Mod.Manager-0.71.4.exe
