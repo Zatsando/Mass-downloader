@@ -2,6 +2,7 @@
 :: THIS BAT FILE DOWNLOADS ALL YOUR FAVORITE SOFTWARE WITH THE PRESS OF A BUTTON!::
 TITLE MASS DOWNLOADER TOOL
 
+start https://github.com/microsoft/winget-cli/releases/download/v0.1.42241-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.appxbundle
 start http://www.motospeed.cc/upfile/download/MotoSpeed_GamingMouse_V30(20180627).rar
 start https://github.com/farag2/Windows-10-Setup-Script/releases
 start https://app.prntscr.com/build/setup-lightshot.exe
